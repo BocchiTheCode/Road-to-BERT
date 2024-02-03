@@ -28,13 +28,22 @@ Before understanding today's machinery we must take a quick look though the hist
 * 2009- Fei-Fei Li invented ImageNet.
 * 2010- Microsoft released the Kinect motion-sensing input device for Xbox 360.
 * 2010- Launch of Kaggle.
-* 2011- IBM Watson beat champions on Jeopardy Game Show.
+* 2011- IBM Watson beats champions on Jeopardy Game Show.
 * 2011- Google Brain launched.
-* 2012- Alex Krizhevsky, Geoffrey Hinton, and Illya Sutskever design model to improve accuracy in Image Recognition.
+* 2012- Alex Krizhevsky, Geoffrey Hinton, and Illya Sutskever design new model which highly improves accuracy in Image Recognition.
+* 2013- Paper on Word2Vec was published.
+* 2014- GRU was created.
+* 2014- Paper on Sequence-to-Sequence Learning with Neural Networks.
 * 2014- Facebook's Deepface was published.
 * 2014- Google's Sibyl for predictive user recommendations.
-* 2016- AlphaGo beat Professional Go player.
+* 2015- First paper on Attention Mechanism.
+* 2016- AlphaGo beats Professional Go player.
+* 2017- "Attention is all you need" got published. Transformer-era begins.
+* 2018- BERT and GPT were created.
+* 2019 and Beyond- Out of scope.
+
 
 References-
 
 1. [History Of Machine Learning- Dicussing The Entire Timeline](https://www.youtube.com/watch?v=m_nQM_AkVfY)
+2. [10 years of NLP history explained in 50 concepts | From Word2Vec, RNNs to GPT](https://youtu.be/uocYQH0cWTs?si=vmxnbonGzJirBNig)
