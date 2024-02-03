@@ -13,3 +13,7 @@ All Machine Learning Models are mathematical functions and they can only take nu
 ### Why is it important for tokens to be meaningful
 
 ### How do we get the embeddings of each token
+
+### Can we directly use these embeddings
+
+# What is K Nearest Neighbor
