@@ -16,4 +16,4 @@ All Machine Learning Models are mathematical functions and they can only take nu
 
 ### Can we directly use these embeddings
 
-# What is K Nearest Neighbor
+### What is K Nearest Neighbor
