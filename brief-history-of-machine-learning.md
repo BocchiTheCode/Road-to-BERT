@@ -22,7 +22,7 @@ Before understanding today's machinery we must take a quick look though the hist
 * 1996- IBM's Deep Blue defeats World Champion (of Chess) Garry Kasparov.
 * 1997- Sepp Hochreiter and Jurgen Schmidhuber publish their work on LSTM.
 * 1998- Yann LeCun released MNIST database.
-* 2002- Torch is release.
+* 2002- Torch is released.
 * 2006- Goeffrey Hinton coined the term "Deep Learning".
 * 2006- The Netflix Prize.
 * 2009- Fei-Fei Li invented ImageNet.
