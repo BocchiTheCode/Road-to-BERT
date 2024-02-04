@@ -121,6 +121,31 @@ Deep Neural Networks are black boxes. The term "black box" refers to a system or
 
 Efforts are ongoing in the field of explainable artificial intelligence (XAI) to develop techniques and methods that enhance the interpretability of black box models. Explainability tools, feature importance analyses, and model-agnostic interpretability methods are some approaches aimed at making the decision-making process of black box models more understandable to users, stakeholders, and regulators.
 
+### How are neural networks able to outperform humans
+
+On some tasks neural networks have been able to outperform humans and for this there are several reasons-
+
+1. Processing Large Amounts of Data:
+  + Neural Networks: Efficiently process massive datasets.
+  + Humans: Learn from large datasets but with limitations in processing vast amounts of information.
+2. High-Dimensional Data:
+  + Neural Networks: Excel at handling high-dimensional data and complex patterns.
+  + Humans: Comprehend high-dimensional data but may struggle with complex patterns without explicit training.
+3. Learning Hierarchical Features:
+  + Neural Networks: Automatically learn hierarchical features.
+  + Humans: Naturally learn hierarchical features, but articulating them may be challenging.
+4. End-to-End Learning:
+  + Neural Networks: Perform end-to-end learning without manual feature engineering.
+  + Humans: Often require explicit feature engineering and structured approaches.
+5. Automation of Feature Extraction:
+  + Neural Networks: Automate feature extraction without manual design.
+  + Humans: Can design features manually but may struggle with complex patterns.
+6. Scalability:
+  + Neural Networks: Scale effectively to handle large and complex models.
+  + Humans: Limited by biological restrictions.
+
+In summary, neural networks excel in data processing, handling high-dimensional data, and automating feature extraction, but they lack the generalized intelligence, common-sense reasoning, and adaptability of humans. Humans possess unique cognitive abilities that enable them to excel in various tasks, especially those requiring nuanced understanding and contextual reasoning.
+
 ### What is Information Theory of Deep Learning
 
 The "information theory of deep learning" generally refers to the application of concepts and principles from information theory to understand and analyze aspects of deep learning models, training processes, and representations. Information theory, a branch of applied mathematics and electrical engineering, deals with quantifying and analyzing information and communication systems. In the context of deep learning, researchers often leverage information theory to gain insights into how neural networks function and learn. Here are some key aspects of the information theory of deep learning:
