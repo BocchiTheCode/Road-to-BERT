@@ -14,10 +14,10 @@ These materials won't go into details and will rely heavily on abstractions.
 - [x] How much human intervention is required to enable learning in machines
 - [x] Do machines understand their environment/domain the same way we do
 - [x] What are black boxes and how much light can we throw on them
-- [ ] Is deep learning just glorified curve fitting
-- [ ] Why are machines able to outperform humans in some tasks
+- [x] Is deep learning just glorified curve fitting
+- [x] Why are machines able to outperform humans in some tasks
 - [x] If machines can only do numerical computations then how are they handling complex modalities like language
-- [ ] Are latent features meaningless
+- [x] Are latent features meaningless
 - [x] If machines are very fast at doing computations then why do we need optimisation algorithms
 
 ## Specific things I will cover
