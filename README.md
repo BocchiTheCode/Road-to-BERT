@@ -10,15 +10,15 @@ These materials won't go into details and will rely heavily on abstractions.
 
 ## General Questions I'm trying to answer
 
-- [ ] Can machines learn to do things on their own
-- [ ] How much human intervention is required to enable learning in machines
-- [ ] Do machines understand their environment/domain the same way we do
-- [ ] What are black boxes and how much light can we throw on them
+- [x] Can machines learn to do things on their own
+- [x] How much human intervention is required to enable learning in machines
+- [x] Do machines understand their environment/domain the same way we do
+- [x] What are black boxes and how much light can we throw on them
 - [ ] Is deep learning just glorified curve fitting
 - [ ] Why are machines able to outperform humans in some tasks
-- [ ] If machines can only do numerical computations then how are they handling complex modalities like language
+- [x] If machines can only do numerical computations then how are they handling complex modalities like language
 - [ ] Are latent features meaningless
-- [ ] If machines are very fast at doing computations then why do we need optimisation algorithms
+- [x] If machines are very fast at doing computations then why do we need optimisation algorithms
 
 ## Specific things I will cover
 
