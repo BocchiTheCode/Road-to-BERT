@@ -42,19 +42,10 @@ Latent features and token embeddings are both representations of data used in ma
 1. Definition:
   + Latent Features: These are abstract, underlying representations learned by a model during training. Latent features are not directly observable but are inferred from the data to capture relevant patterns.
   + Token Embeddings: These are numeric representations of words or subword units in natural language processing (NLP). Token embeddings aim to capture semantic and contextual information about individual tokens.
-2. Learning Approach:
-  + Latent Features: Typically learned through the training process of a machine learning model, where the model discovers patterns and relationships in the data.
-  + Token Embeddings: Generated using pre-trained models or embedding techniques specifically designed for NLP. They capture linguistic properties and relationships in a language based on the training data.
-3. Context and Specificity:
+2. Context and Specificity:
   + Latent Features: Generalize patterns in the entire dataset, representing abstract features that contribute to the model's understanding of the input.
   + Token Embeddings: Capture specific information about individual tokens, including their semantic meaning and contextual usage within a given sequence or sentence.
-4. Interpretability:
-  + Latent Features: Often less interpretable as they are abstract representations learned by the model. Their interpretability may depend on the transparency of the model architecture.
-  + Token Embeddings: Depending on the embedding technique used (e.g., Word2Vec, GloVe, BERT), token embeddings can have varying degrees of interpretability. Some embeddings may capture semantic relationships, while others focus on contextual information.
-5. Application:
-  + Latent Features: Used in a broad range of machine learning tasks, including classification, regression, and clustering, where the model learns relevant features for making predictions.
-  + Token Embeddings: Primarily applied in natural language processing tasks such as text classification, sentiment analysis, machine translation, etc., where capturing semantic meaning and context of words is crucial.
-6. Dynamic vs. Static:
+3. Dynamic vs. Static:
   + Latent Features: Can be dynamic, changing with the learning process as the model updates its internal representations during training.
   + Token Embeddings: Can be dynamic (contextual embeddings like BERT) or static (fixed embeddings like Word2Vec). Contextual embeddings adapt to the surrounding context, while static embeddings provide fixed representations.
 
