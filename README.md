@@ -2,7 +2,7 @@
 
 Hello! This repository will be used to store Machine Learning materials that I will be using as reference for teaching others and whatnot.
 
-These materials won't go into details and will rely heavily on abstractions.
+These materials won't go into details and will rely heavily on abstractions. Thanks to ChatGPT it took me FAR less time to get all this info together than would have been otherwise possible!
 
 ## To get started
 
@@ -25,7 +25,7 @@ These materials won't go into details and will rely heavily on abstractions.
 * How do we convert text into meaningful numbers that machines can handle
 * What all can we do with these embeddings
 * What is k nearest neighbor
-* What is a perceptron and why do we keep stacking them
+* What is an artificial neuron and why do we keep stacking them
 * What are activation functions
 * What is softmax
 * What is backpropagation
